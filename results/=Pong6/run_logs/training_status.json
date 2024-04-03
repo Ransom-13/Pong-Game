@@ -1,0 +1,38 @@
+{
+    "Play Pong": {
+        "checkpoints": [
+            {
+                "steps": 499986,
+                "file_path": "results\\=Pong6\\Play Pong\\Play Pong-499986.onnx",
+                "reward": 2.2752083799180887,
+                "creation_time": 1711651531.1435237,
+                "auxillary_file_paths": [
+                    "results\\=Pong6\\Play Pong\\Play Pong-499986.pt"
+                ]
+            },
+            {
+                "steps": 500050,
+                "file_path": "results\\=Pong6\\Play Pong\\Play Pong-500050.onnx",
+                "reward": 2.2752083799180887,
+                "creation_time": 1711651531.220526,
+                "auxillary_file_paths": [
+                    "results\\=Pong6\\Play Pong\\Play Pong-500050.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500050,
+            "file_path": "results\\=Pong6\\Play Pong.onnx",
+            "reward": 2.2752083799180887,
+            "creation_time": 1711651531.220526,
+            "auxillary_file_paths": [
+                "results\\=Pong6\\Play Pong\\Play Pong-500050.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}

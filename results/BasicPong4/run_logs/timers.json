@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1711737536",
+        "python_version": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\mosna\\OneDrive\\Desktop\\2024\\Spring 2024\\Research\\PongGame\\MLvenv\\Scripts\\mlagents-learn C:\\Users\\mosna\\source\\repos\\PongGame.yaml --run-id=BasicPong4 --time-scale=1",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.2.2+cpu",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1711737546"
+    },
+    "total": 9.2954112,
+    "count": 1,
+    "self": 0.010764599999999902,
+    "children": {
+        "run_training.setup": {
+            "total": 0.09084020000000015,
+            "count": 1,
+            "self": 0.09084020000000015
+        },
+        "TrainerController.start_learning": {
+            "total": 9.1938064,
+            "count": 1,
+            "self": 0.00014550000000035368,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 9.1936427,
+                    "count": 1,
+                    "self": 9.1936427
+                },
+                "TrainerController._save_models": {
+                    "total": 1.8199999999524152e-05,
+                    "count": 1,
+                    "self": 1.8199999999524152e-05
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Play Pong": {
+        "checkpoints": [
+            {
+                "steps": 999766,
+                "file_path": "results\\BasicPong7\\Play Pong\\Play Pong-999766.onnx",
+                "reward": 10.408127715054167,
+                "creation_time": 1711740158.1157358,
+                "auxillary_file_paths": [
+                    "results\\BasicPong7\\Play Pong\\Play Pong-999766.pt"
+                ]
+            },
+            {
+                "steps": 1499888,
+                "file_path": "results\\BasicPong7\\Play Pong\\Play Pong-1499888.onnx",
+                "reward": 12.517168590821415,
+                "creation_time": 1711740938.2163715,
+                "auxillary_file_paths": [
+                    "results\\BasicPong7\\Play Pong\\Play Pong-1499888.pt"
+                ]
+            },
+            {
+                "steps": 1999999,
+                "file_path": "results\\BasicPong7\\Play Pong\\Play Pong-1999999.onnx",
+                "reward": 8.352853696931977,
+                "creation_time": 1711741710.5709007,
+                "auxillary_file_paths": [
+                    "results\\BasicPong7\\Play Pong\\Play Pong-1999999.pt"
+                ]
+            },
+            {
+                "steps": 2499866,
+                "file_path": "results\\BasicPong7\\Play Pong\\Play Pong-2499866.onnx",
+                "reward": 10.943085615975516,
+                "creation_time": 1711742485.9013815,
+                "auxillary_file_paths": [
+                    "results\\BasicPong7\\Play Pong\\Play Pong-2499866.pt"
+                ]
+            },
+            {
+                "steps": 2560784,
+                "file_path": "results\\BasicPong7\\Play Pong\\Play Pong-2560784.onnx",
+                "reward": 10.67581401499667,
+                "creation_time": 1711742583.3436747,
+                "auxillary_file_paths": [
+                    "results\\BasicPong7\\Play Pong\\Play Pong-2560784.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2560784,
+            "file_path": "results\\BasicPong7\\Play Pong.onnx",
+            "reward": 10.67581401499667,
+            "creation_time": 1711742583.3436747,
+            "auxillary_file_paths": [
+                "results\\BasicPong7\\Play Pong\\Play Pong-2560784.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Play Pong": {
+        "elo": 1208.7420710685178,
+        "checkpoints": [
+            {
+                "steps": 30817,
+                "file_path": "results\\SelfPong1\\Play Pong\\Play Pong-30817.onnx",
+                "reward": 11.544315883091517,
+                "creation_time": 1711731610.778225,
+                "auxillary_file_paths": [
+                    "results\\SelfPong1\\Play Pong\\Play Pong-30817.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30817,
+            "file_path": "results\\SelfPong1\\Play Pong.onnx",
+            "reward": 11.544315883091517,
+            "creation_time": 1711731610.778225,
+            "auxillary_file_paths": [
+                "results\\SelfPong1\\Play Pong\\Play Pong-30817.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Play Pong": {
+        "checkpoints": [
+            {
+                "steps": 499990,
+                "file_path": "results\\=Pong9\\Play Pong\\Play Pong-499990.onnx",
+                "reward": 1.3333333333333333,
+                "creation_time": 1711655050.3253775,
+                "auxillary_file_paths": [
+                    "results\\=Pong9\\Play Pong\\Play Pong-499990.pt"
+                ]
+            },
+            {
+                "steps": 500054,
+                "file_path": "results\\=Pong9\\Play Pong\\Play Pong-500054.onnx",
+                "reward": 1.3333333333333333,
+                "creation_time": 1711655050.410378,
+                "auxillary_file_paths": [
+                    "results\\=Pong9\\Play Pong\\Play Pong-500054.pt"
+                ]
+            },
+            {
+                "steps": 500054,
+                "file_path": "results\\=Pong9\\Play Pong\\Play Pong-500054.onnx",
+                "reward": null,
+                "creation_time": 1711656163.362726,
+                "auxillary_file_paths": [
+                    "results\\=Pong9\\Play Pong\\Play Pong-500054.pt"
+                ]
+            },
+            {
+                "steps": 500054,
+                "file_path": "results\\=Pong9\\Play Pong\\Play Pong-500054.onnx",
+                "reward": null,
+                "creation_time": 1711656226.9938185,
+                "auxillary_file_paths": [
+                    "results\\=Pong9\\Play Pong\\Play Pong-500054.pt"
+                ]
+            },
+            {
+                "steps": 500054,
+                "file_path": "results\\=Pong9\\Play Pong\\Play Pong-500054.onnx",
+                "reward": null,
+                "creation_time": 1711656447.5144181,
+                "auxillary_file_paths": [
+                    "results\\=Pong9\\Play Pong\\Play Pong-500054.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500054,
+            "file_path": "results\\=Pong9\\Play Pong.onnx",
+            "reward": null,
+            "creation_time": 1711656447.5144181,
+            "auxillary_file_paths": [
+                "results\\=Pong9\\Play Pong\\Play Pong-500054.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}
